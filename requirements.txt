@@ -1,0 +1,4 @@
+semver
+python-magic
+ftputil
+ipython == 5.3.0
