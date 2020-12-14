@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/rsutormin/DataFileUtil.svg?branch=master)](https://travis-ci.org/rsutormin/DataFileUtil)
 
-# DataFileUtil
+# DataFileUtil App
 ---
 
 ## Utility functions for operating on files and data objects in KBase data stores like Shock and the Workspace
