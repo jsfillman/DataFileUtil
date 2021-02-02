@@ -1,4 +1,4 @@
 semver
 python-magic
 ftputil
-ipython == 7.15.0
+ipython == 7.20.0
